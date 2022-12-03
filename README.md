@@ -6,7 +6,8 @@ psychology and neuroscience, in space and physics, and in sustainability through
 goal in life is to noticeably improve the quality of life for people around the world by combining computer science with
 one of the other mentioned interests.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React.js
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
