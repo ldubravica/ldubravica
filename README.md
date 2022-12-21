@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on sustainability oriented projects or psychology/neuroscience oriented projects
 
-- 👨‍💻 I've contributed to [anydex-core](https://github.com/rahimklaber/anydex-core/tree/CSE2000)
+- 👨‍💻 I've contributed to the following repositories: [anydex-core](https://github.com/rahimklaber/anydex-core/tree/CSE2000)
 
 - 🌱 I’m currently learning React.js
 
